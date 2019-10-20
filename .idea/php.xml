@@ -21,6 +21,10 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/easyswoole/easyswoole" />
       <path value="$PROJECT_DIR$/vendor/easyswoole/annotation" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/orm" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/pool" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/mysqli" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/ddl" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

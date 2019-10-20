@@ -7,9 +7,13 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/annotation" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/component" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/config" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/ddl" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/easyswoole" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/http" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/mysqli" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/pool" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/spl" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/task" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/easyswoole/trigger" />
